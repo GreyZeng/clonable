@@ -1,4 +1,5 @@
-# Lua 学习笔记
+## Lua学习笔记
+原文地址：[Lua学习笔记](https://www.cnblogs.com/greyzeng/p/5922248.html)
 
 ## 注释
 
@@ -156,5 +157,6 @@ local function oop_sample()
 end
 ```
 
+## 源码
 
-
+[hello-lua](https://github.com/GreyZeng/hello-lua)
